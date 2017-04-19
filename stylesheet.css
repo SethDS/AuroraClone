@@ -8,9 +8,24 @@ a{
 
 .fixed-nav{
     position: fixed;
-    top: 10%;
-    left: 10%;
+    top: -2%;
+    left: 5%;
+    z-index: 1;
 }
+.fixed-nav-pic{
+    height: calc(100vh/5);
+    width: calc(100vh/3);
+}
+.hamburger-menu {
+    position: fixed;
+    top: 7%;
+    left: 26%;
+    z-index: 1;
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+
 .main-header{
     position: absolute;
     height: 100%;
