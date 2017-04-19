@@ -21,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="240">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -162,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492555774271</updated>
-      <workItem from="1492555775635" duration="3235000" />
+      <workItem from="1492555775635" duration="4097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3235000" />
+    <option name="totallyTimeSpent" value="4097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="-9" width="1304" height="786" extended-state="6" />
@@ -219,26 +219,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="240">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <marker date="1492574374288" expanded="true" signature="21:784" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="28:128" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="135:776" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="159:267" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="167:260" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="296:405" ph="..." />
-            <marker date="1492574374288" expanded="true" signature="445:768" ph="..." />
+            <marker date="1492575282266" expanded="true" signature="4:22" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="24:75" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="88:156" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="171:227" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="244:432" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="443:511" ph="{...}" />
+            <marker date="1492575282266" expanded="true" signature="525:769" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
